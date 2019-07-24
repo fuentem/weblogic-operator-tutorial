@@ -69,7 +69,7 @@
             <li>getServerName(): <%=request.getServerName()%></li>
             <li>WLS Server Name: <%=System.getProperty("weblogic.Name")%></li>
             <li>getIpAddOfCurrSrv(): <%=getIpAddOfCurrSrv()%> </li>
-            <li>code updated!!</li>
+            <li>code updated!!!!!</li>
         </ul>
     </body>
 </html>
